@@ -104,7 +104,7 @@ The `Start` method executes asynchronously. To make sure that subsequent lines o
 
 [!code-csharp[Main](hubs-api-guide-net-client/samples/sample2.cs?highlight=1)]
 
-[!code-css[Main](hubs-api-guide-net-client/samples/sample3.css?highlight=1)]
+[!code-csharp[Main](hubs-api-guide-net-client/samples/sample3.css?highlight=1)]
 
 <a id="slcrossdomain"></a>
 
